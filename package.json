@@ -1,0 +1,15 @@
+{
+  "name": "mssql-conn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikias",
+  "license": "ISC",
+  "dependencies": {
+    "msnodesqlv8": "^2.7.0",
+    "mssql": "^9.0.1"
+  }
+}
